@@ -7,5 +7,8 @@ For each class, I divide my lecture notes into the weeks of a semester. The pict
 
 ![Picture of class example](https://github.com/isaguimet/uniDates-script/blob/master/images/courseExample.PNG)
 
-Before I used to create these dates manually until I decided I no longer wanted to spend time doing this each semester. So, I decided to automate it with 
-a simple python script.
+Before, I used to create these dates manually until I decided I no longer wanted to spend time creating all the dates and weeks of a semester every semester. So, I decided to automate it with a simple python script.
+
+## The result
+
+By using one essential python module, datetime, I was able to solve this problem. The script outputs a list of the 14 weeks of the semester (including reading week) with the dates of each week.
