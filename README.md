@@ -11,7 +11,7 @@ Before, I used to create these dates manually until I decided I no longer wanted
 
 ## The result
 
-By using one essential python module, datetime, I was able to solve this problem. The script outputs a list of the 14 weeks of the semester (including reading week) with the dates of each week. Below is a picture of the desired result:
+By using one essential python module, datetime, I was able to solve this problem. The script outputs a list of the 14 weeks of the semester (includes reading week) with the dates of each week. The script outputs the result to the command line interface as shown in the picture below and also to a text file called "unidatesText.txt".
 
 ![Picture of script result](https://github.com/isaguimet/uniDates-script/blob/master/images/result.PNG)
 
